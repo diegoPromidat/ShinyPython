@@ -1,0 +1,18 @@
+div.sourceCode {
+  overflow: auto;
+}
+
+.navbar {
+  background-color: #d1b34b;
+  color: #fdfefe;
+}
+
+.quarto-dashboard #quarto-dashboard-header .navbar .navbar-nav .active {
+  background-color: gray;
+}
+
+.quarto-dashboard-img-contain {
+    height: 100%;
+    width: 50%;
+    object-fit: contain;
+}
